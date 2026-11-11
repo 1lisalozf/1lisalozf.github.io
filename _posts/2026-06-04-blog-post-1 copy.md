@@ -1,4 +1,5 @@
 ---
+published: false
 title: '복습을 해보아요'
 date: 2026-06-04
 permalink: /posts/2026/06/04/blog-post-0/
